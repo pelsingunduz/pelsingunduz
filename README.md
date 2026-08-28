@@ -18,11 +18,5 @@
 
 ### 👩‍💻 About Me
 
-Computer Engineering graduate curious about turning data into practical solutions. I've spent my internships building end-to-end ML pipelines — from data collection and feature engineering to model training, tuning, and deployment — across domains like energy forecasting, medical imaging, and reinforcement learning. Currently sharpening my data science skills through the YÖK Data Analysis School and Google AI & Technology Academy, and looking for an early-career role in **machine learning, data science, or AI**.
-
-### 💼 Experience
-
-- **LedSOFT Teknoloji A.Ş.** — Machine Learning Intern *(2025)*
-- **EOS Sustainable Energy Solutions GmbH** — Machine Learning Intern *(2024–2025, TÜBİTAK 1507 project)*
-- **ServisSoft** — Machine Learning Intern *(2023)*
+Computer Engineering graduate curious about turning data into practical solutions. I've spent my internships building end-to-end ML pipelines — from data collection and feature engineering to model training, tuning, and deployment — across domains like energy forecasting, medical imaging, and reinforcement learning. Currently sharpening my data science skills by buildings projects, and looking for an early-career role in **machine learning, data science, or AI**.
 
