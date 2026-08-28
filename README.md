@@ -26,6 +26,3 @@ Computer Engineering graduate curious about turning data into practical solution
 - **EOS Sustainable Energy Solutions GmbH** — Machine Learning Intern *(2024–2025, TÜBİTAK 1507 project)*
 - **ServisSoft** — Machine Learning Intern *(2023)*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pelsingunduz&show_icons=true&theme=dark&hide_title=true&hide_border=true" alt="GitHub stats"/>
-</p>
