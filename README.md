@@ -10,11 +10,6 @@
   </a>
 </p>
 
-### 🛠️ Languages and tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,postgres,sqlite,git,github,jupyter,vscode,flask" />
-</p>
 
 ### 👩‍💻 About Me
 
